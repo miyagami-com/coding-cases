@@ -1,26 +1,25 @@
 # Coding challenge
-This page consists of a coding challenge for Full Stack JavaScript role at Miyagami.
+This page consists of a coding challenge for Full Stack JavaScript Developer role at Miyagami.
 
 # Purpose
-The aim of this test is to three fold,
+The aim of this test is threefold:
 
 - evaluate your coding abilities 
 - judge your technical experience
 - understand how you design a solution
 
 # How you will be judged
-You will be scored on,
+You will be scored on:
 
 - coding standard, comments, and style
 - overall solution design
 - appropriate use of technologies and source control
-- Look and feel, sense of design
-- 
+- Look, feel, and sense of design
 
-# Intructions
+# Instructions
 
 - Please use Typescript, NodeJS, ExpressJS, and Next.js for the following challenge
-- Candidate should put their test results on a public branch named {firstName}-{lastName}
+- Candidates should put their test results on a public branch named {firstName}-{lastName}
 - Once the test is completed please notify the hiring team so they can review your work
 
 # Challenge - Flickr feed viewer and search
