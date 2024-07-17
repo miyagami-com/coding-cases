@@ -24,10 +24,10 @@ You will be scored on,
 
 # Challenge - Photo feed viewer and search
 
-Write a simple web application that reads data from Unsplash's API and displays the images on the page to the user. It should be able to paginate, search and order the photo's
-Please check the Unsplash API documentation from the following URL:
+Write a simple web application that reads data from Pexels API and displays the images on the page to the user. It should be able to paginate, search and order the photo's
+Please check the Pexels API documentation from the following URL:
 
-- [Unsplash](https://unsplash.com/documentation)
+- [Pexels API](https://www.pexels.com/api/documentation/)
 
 
 ## Details
